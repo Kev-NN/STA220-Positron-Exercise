@@ -1,2 +1,2 @@
 # STA220-Positron-Exercise
-This is an exercise in navigating positron for the first time. Speling misstakke
+This is an exercise in navigating positron for the first time. Spelling misstake.
